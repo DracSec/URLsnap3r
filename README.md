@@ -1,3 +1,5 @@
+<img width="975" height="178" alt="urlist3r" src="https://github.com/user-attachments/assets/4873ee0d-21d6-429f-aea5-bb32d6f6dcca" />
+
 ### URList3r.py
 The URList3r.py is a Python script designed for a crucial reconnaissance step of identifying hidden URLs, API endpoints, and configuration paths often hardcoded within external JS files.
 
