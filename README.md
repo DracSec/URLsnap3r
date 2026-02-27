@@ -59,7 +59,7 @@ The tool requires a single positional argument: the full URL of the target websi
 Example with Specific Path
 
 ```
-python URList3r.py https://staging.target.com/app/dashboard
+./bin/python URList3r.py https://staging.target.com/app/dashboard
 ```
 
 Output Example
