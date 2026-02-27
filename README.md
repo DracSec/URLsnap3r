@@ -1,6 +1,6 @@
 <img width="975" height=auto alt="urlsnap3r" src="https://github.com/user-attachments/assets/9f1e9670-30fc-4b70-b3b1-70f8e4f679da" />
 
-### URList3r.py
+### URLsnap3r.py
 About
 The URLsnap3r is a Python script forked from DRAGOWN/URList3r and designed for a crucial reconnaissance step of identifying hidden URLs, API endpoints, configuration paths often hardcoded within external JS files, checking the access status and taking screenshots.
 
@@ -59,7 +59,7 @@ The tool requires a single positional argument: the full URL of the target websi
 Example with Specific Path
 
 ```
-./bin/python URList3r.py https://staging.target.com/app/dashboard
+./bin/python URLsnap3r.py https://staging.target.com/app/dashboard
 ```
 
 Output Example
