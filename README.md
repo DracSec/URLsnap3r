@@ -1,4 +1,4 @@
-<img width="975" height="178" alt="urlist3r" src="https://github.com/user-attachments/assets/4873ee0d-21d6-429f-aea5-bb32d6f6dcca" />
+<img width="975" height=auto alt="urlsnap3r" src="https://github.com/user-attachments/assets/9f1e9670-30fc-4b70-b3b1-70f8e4f679da" />
 
 ### URList3r.py
 About
